@@ -1,5 +1,5 @@
 __author__ = 'GAUTHAM HARI'
-data_list = [
+"""data_list = [
     "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
     "All grown-ups were once children... but only few of them remember it.",
     "People have forgotten this truth,\" the fox said. \"But you mustn’t forget it. You become responsible forever for what you’ve tamed. You’re responsible for your rose.",
@@ -82,6 +82,9 @@ data_list = [
     "Will you draw me a sheep?",
     "It's good to have a friend. Even if you're going to die.",
     "If you love a flower that lives on a star, then it's good at night, to look up at the sky. All the stars are blossoming."]
+"""
+
+#data_list = ["No sentence can end with because because because is a conjunction.", "oranges and lemons sing the bells of saint clemens."]
 
 search_set = set()                          #Set which will be used to store unique words
 operation = None                            #Assigning a default value to operation
